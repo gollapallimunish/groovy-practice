@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.groovy": "groovy"
+    },
+    "editor.defaultFormatter": "NicolasVuillamy.vscode-groovy-lint"
+}
